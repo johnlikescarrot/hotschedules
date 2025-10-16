@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "hotschedules",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0f63b99a-376b-4586-80c2-dab7ceaad98f",
+			"database_name": "hotschedules"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
